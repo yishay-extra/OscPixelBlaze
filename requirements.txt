@@ -1,0 +1,2 @@
+pixelblaze-client
+python-osc
